@@ -10,3 +10,7 @@ img{
     gap:10px;
     flex-wrap: wrap;
 }
+
+.forms{
+    display: flex;
+}
